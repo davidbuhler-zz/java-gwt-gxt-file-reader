@@ -1,7 +1,7 @@
 ## Reading a CSV and Displaying the Results in a UI
 
 ##About
-This is a small application to evaluate using Sencha's GXT library with GWT. The application allows a user to upload a CSV and display the results. I've included the CSV used for evaluation purposes.
+This is Java widget to evaluate using Sencha's GXT library on top of GWT. The application allows a user to upload a CSV and display the results. I've included the CSV used for evaluation purposes.
 
 ##Required Libs
 1. commons-fileupload-1.2.2.jar
